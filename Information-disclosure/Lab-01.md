@@ -29,7 +29,7 @@ GET /product?productId=12
 
 ### Screenshot - 1
 
-![Normal Product Page](Screenshot-01-Lab-01.png)
+![Normal Product Page](/Screenshots/Screenshot-01-Lab-01.png)
 
 ---
 
@@ -58,7 +58,7 @@ Apache Struts 2 2.3.31
 
 ### Screenshot - 2
 
-![Error Message Disclosure](Screenshot-02-Lab-01.png)
+![Error Message Disclosure](/Screenshots/Screenshot-02-Lab-01.png)
 
 ---
 
@@ -85,6 +85,3 @@ Verbose error messages may disclose:
 
      ▤ Proper error handling is a critical security control.
 
----
-
-✅ Solved
