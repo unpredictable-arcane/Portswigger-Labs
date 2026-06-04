@@ -40,11 +40,11 @@ Since CGI directories are commonly associated with administrative scripts, debug
 
 ### Screenshots
 
-![Command Execution](/Screenshots/Screenshot-01-Lab-02.png)
+![Command Execution](./Screenshots/Screenshot-01-Lab-02.png)
 
 ---
 
-![Directory Enumeration](/Screenshots/Screenshot-02-Lab-02.png)
+![Directory Enumeration](./Screenshots/Screenshot-02-Lab-02.png)
 
 ---
 
@@ -82,7 +82,7 @@ This approach quickly led to the discovery of a secret key stored within the **E
 
 ### Screenshot
 
-![Secret Key Disclosure](/Screenshots/Screenshot-03-Lab-02.png)
+![Secret Key Disclosure](./Screenshots/Screenshot-03-Lab-02.png)
 
 ---
 

@@ -38,7 +38,7 @@ Admin interface only available to local users
 
 ### Screenshot
 
-![Access Denied](/Screenshots/Screenshot-01-lab-04.png)
+![Access Denied](./Screenshots/Screenshot-01-lab-04.png)
 
 ---
 
@@ -97,7 +97,7 @@ The application appeared to trust requests based on the value contained in the `
 
 ### Screenshot
 
-![TRACE Disclosure](/Screenshots/Screenshot-03-Lab-04.png)
+![TRACE Disclosure](./Screenshots/Screenshot-03-Lab-04.png)
 
 ---
 
@@ -135,7 +135,7 @@ This configuration caused Burp Suite to automatically append the trusted header 
 
 ### Screenshot
 
-![Match and Replace](/Screenshots/Screenshot-04-Lab-04.png)
+![Match and Replace](./Screenshots/Screenshot-04-Lab-04.png)
 
 ---
 
@@ -159,7 +159,7 @@ Administrative access was granted successfully (after attempting through many ot
 
 ### Screenshot
 
-![Admin Panel Access](/Screenshots/Screenshot-05-Lab-04.png)
+![Admin Panel Access](./Screenshots/Screenshot-05-Lab-04.png)
 
 ---
 
@@ -189,7 +189,7 @@ After deleting the target user, the application confirmed successful completion 
 
 ### Screenshot
 
-![Solved](/Screenshots/Screenshot-06-lab-04.png)
+![Solved](./Screenshots/Screenshot-06-lab-04.png)
 
 ---
 

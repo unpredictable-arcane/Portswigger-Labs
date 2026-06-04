@@ -28,7 +28,7 @@ The `robots.txt` file is intended to provide instructions to different search en
 
 ### Screenshot
 
-![robots.txt](/Screenshots/Screenshot-01-Lab-03.png)
+![robots.txt](./Screenshots/Screenshot-01-Lab-03.png)
 
 ---
 
@@ -42,7 +42,7 @@ Navigating directly to the disclosed path revealed a backup file containing the 
 
 ### Screenshot
 
-![Backup Directory](/Screenshots/Screenshot-02-Lab-03.png)
+![Backup Directory](./Screenshots/Screenshot-02-Lab-03.png)
 
 ---
 
@@ -59,7 +59,7 @@ During analysis, several application components were observed, including referen
 
 ### Screenshot
 
-![Java Source Code](/Screenshots/Screenshot-03-Lab-03.png)
+![Java Source Code](./Screenshots/Screenshot-03-Lab-03.png)
 
 ---
 
@@ -97,7 +97,7 @@ The extracted database password was submitted successfully, resulting in complet
 
 ### Screenshot
 
-![Lab Solved](/Screenshots/Screenshot-04-Lab-03.png)
+![Lab Solved](./Screenshots/Screenshot-04-Lab-03.png)
 
 ---
 
