@@ -1,7 +1,5 @@
 # SQL Injection Attack, Querying the Database Type and Version on Oracle
 
-
-
 ## Overview
 
 This lab demonstrates how a **UNION-based SQL Injection** vulnerability can be used to identify the backend database management system and retrieve its version information.
@@ -40,10 +38,8 @@ The product categories included :
 
 And then selecting different categories changed the displayed products, indicating that the selected category was being incorporated into a backend SQL query.
 
-
 ---
 ![Initial application interface](./Screenshots/Screenshot-01-Lab-04.png)
-
 
 ---
 
@@ -70,9 +66,7 @@ responded with an internal server error, indicates that the original query retur
 ---
 ![order-by-2](./Screenshots/Screenshot-02-Lab-04.png)
 
-
 ![order-by-3](./Screenshots/Screenshot-03-Lab-04.png)
-
 
 ---
 
@@ -120,7 +114,6 @@ Successfully retrieving this information completed the lab.
 
 ---
 ![Lab solved confirmation](./Screenshots/Screenshot-04-Lab-04.png)
-
 
 ---
 
