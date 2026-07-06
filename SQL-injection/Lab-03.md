@@ -5,10 +5,7 @@
 
 This lab demonstrates a classic **SQL Injection vulnerability** in a `WHERE` clause that allows an attacker to manipulate the application's SQL query and retrieve hidden data.
 
-
-
 By injecting a condition that always evaluates to **TRUE**, the attacker bypasses the intended filtering conditions and forces the application to return every product in the database, including products that were meant to remain hidden.
-
 
 ---
 
